@@ -16,3 +16,5 @@ Take your digital communication to the next level with QRify – the ultimate QR
 - Versatile applications for marketers, educators, entrepreneurs, and individuals alike.
 
 Get started with QRify today and unlock the power of QR codes for your digital communication needs!
+
+(qrcode2.py is for creating colorful qrcodes)
